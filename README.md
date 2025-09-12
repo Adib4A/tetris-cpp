@@ -24,6 +24,8 @@ A simple **Tetris game** implemented in **C++** for the Windows console.
 - **`x` → Hard Drop (instantly drop piece)**
 - **`e` → Rotate Clockwise**
 - **`q` → Rotate Counter-Clockwise**
+## Demo of Tetris
+![Demo] (https://raw.githubusercontent.com/Adib4A/tetris-cpp/blob/main/assets/tetris-demo.gif)
 
 ## Known Issues / Limitations
 - **Uses many global variables, making code harder to maintain.**
