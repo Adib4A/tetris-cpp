@@ -50,3 +50,8 @@ A simple **Tetris game** implemented in **C++** for the Windows console.
 
 ## License
 **This project is licensed under the MIT License.**
+
+[![GitHub stars](https://img.shields.io/github/stars/Adib4A/tetris-cpp.svg?style=social)](https://github.com/Adib4A/tetris-cpp/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Adib4A/tetris-cpp.svg?style=social)](https://github.com/Adib4A/tetris-cpp/network/members)
+
+
